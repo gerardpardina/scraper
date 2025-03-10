@@ -684,7 +684,7 @@ def main():
                     test_hostel = {
                         "name": "Hostal Ramos",
                         "type": "Privado",
-                        "url": "https://www.booking.com/hotel/es/hostal-ramos.es.html"
+                        "url": "https://www.booking.com/hotel/es/hostal-ramos.html"
                     }
                     test_date = datetime(2025, 3, 11)
                     
